@@ -12,7 +12,7 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 
 - 🎓 B.Tech in Artificial Intelligence and Machine Learning @ Symbiosis Institute of Technology (2026 expected)
 - 🔍 Researcher & Innovator | Merit scholar every semester
-- 🏆 Winner, **Google Girl Hackathon 2025** among 58,000+ participants
+- 🏆 1st Place Winner, **Google Girl Hackathon 2025** among 58,000+ participants
 - 📊 Strong foundation in ML, Deep Learning, NLP, RL, GenAI, Cloud Computing, and Web Dev
 - 🌱 Currently exploring: Agentic workflows in RAG, GANs for creative AI, and temporal modeling in MedTech
 
