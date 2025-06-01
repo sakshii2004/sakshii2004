@@ -92,6 +92,6 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshii2004&layout=compact&theme=github_dark&hide_border=true" width="48%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshii2004&theme=github_dark" width="46%" alt="Languages Per Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshii2004&theme=github_dark" width="26%" alt="Languages Per Repo"/>
 </p>
 
