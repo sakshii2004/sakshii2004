@@ -103,8 +103,12 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 | 🧾 **Earnings Call Analyzer & Chatbot** <br> *(LLMs, LangChain, FinBERT, Android, Flask)* | Android app that summarizes Earnings Call Transcripts using BART and T5, analyzes sentiment with BiLSTM, and features a chatbot using FAISS and LangChain for financial QA and multi-company comparisons |
 | 🧬 **AML Sub-type Classification** <br> *(CNN, Ensemble, Image Processing)* | Achieved 92% patient-level accuracy by classifying individual blood smear images into cell types using CNN and aggregating results through an ensemble model for acute myeloid leukemia subtype detection |
 | 🧠 **Lesion Detection in Endoscopy Videos** <br> *(CNN, BiLSTM, Temporal Modeling)* | Developed a deep learning pipeline combining CNN-based frame-level feature extraction and BiLSTM temporal modeling to detect lesions in capsule endoscopy videos with over 90% accuracy |
-| 🖌️ **InkSync: Connect Artists & Writers** <br> *(MERN Stack, Realtime Chat, Collaboration)* | A collaborative platform that connects artists and writers through portfolio sharing, real-time messaging, and project collaboration features; includes session-based auth and secure profile management |
-| 🛠️ **MyKartavyam: Civic Issue Reporting Platform** <br> *(Django, ML, OTP Auth)* | A civic-tech web app with OTP-based login, image and location-based complaint filing, AI-driven content moderation, auto-posting to X (Twitter), and a badge/moderator system to boost credibility |
+| 🖌️ **[InkSync: Connect Artists and Writers](https://inksync-ysgi.onrender.com)** <br> *(MERN Stack, Realtime Chat, Collaboration)* | A collaborative platform that connects artists and writers through portfolio sharing, real-time messaging, and project collaboration features; includes session-based auth and secure profile management |
+| 🛠️ **[MyKartavyam](https://www.mykartavyam.info)** <br> *(Django, ML, OTP Auth)* | A civic-tech web app with OTP-based login, image and location-based complaint filing, AI-driven content moderation, auto-posting to X (Twitter), and a badge/moderator system to boost credibility |
+| 📚 **[Research Publication](https://doi.org/10.1016/j.mex.2024.103050)** <br> *(Audio Processing, ML)* | Evaluative Comparison of ML Algorithms for Stutter Detection, MethodsX (2024) |
 
+### 🤝 Let's Connect!
+I love collaborating on impactful AI, research, or full-stack projects. Always up for hackathons, community events, and technical discussions. Feel free to connect!
 
+> *“Build with purpose. Code with clarity. Learn endlessly.”*
 
