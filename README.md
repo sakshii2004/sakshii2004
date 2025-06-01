@@ -1,7 +1,7 @@
 # 💫 Sakshi Sah
 
-🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | ☁️ Cloud Practitioner  <br>
-📍 Pune, India | 📧 sakshisah0511@gmail.com  <br>
+🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | ☁️ Cloud Practitioner  <br><br>
+📍 Pune, India | 📧 sakshisah0511@gmail.com  <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshisah) [![Leetcode](https://img.shields.io/badge/Leetcode-%23000000.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/sakshisah/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshisah0511@gmail.com) <br>
 
 ---
