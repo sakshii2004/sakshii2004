@@ -109,6 +109,3 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 
 ### 🤝 Let's Connect!
 I love collaborating on impactful AI, research, or full-stack projects. Always up for hackathons, community events, and technical discussions. Feel free to connect!
-
-> *“Build with purpose. Code with clarity. Learn endlessly.”*
-
