@@ -89,3 +89,6 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshii2004&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
